@@ -5,5 +5,6 @@ You must have Python3 installed in your computer/Laptop
 
 First install this package:
   pip install bs4
+  
   pip install requests
 >>> python corona_tracker.py
